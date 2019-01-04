@@ -1,3 +1,2 @@
 # best-repo-ever
-//追記
-//追記２
+//sfdx練習用
